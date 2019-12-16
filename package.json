@@ -1,0 +1,16 @@
+{
+  "name": "dm-logger",
+  "version": "1.0.0",
+  "description": "Just another logger lib with some toppings over it",
+  "main": "index.js",
+  "repository": "https://github.com/dariomac/dm-logger.git",
+  "author": "Darío Macchi",
+  "license": "MIT",
+  "dependencies": {
+    "express-http-context": "^1.2.3",
+    "lodash": "^4.17.15",
+    "morgan": "^1.9.1",
+    "shortid": "^2.2.15",
+    "winston": "^3.2.1"
+  }
+}
